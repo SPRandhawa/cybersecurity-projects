@@ -18,7 +18,7 @@ Here I explore how systems can be protected, tested, and understood through code
 
 ### ⚙️ Tech Stack
 - **Languages:** Python, Bash, JavaScript  
-- **Tools:** Wireshark, Nmap, Burp Suite, Metasploit (for practice setups)  
+- **Tools:** Wireshark, Nmap, Burp Suite, Metasploit (for practice setups)   
 - **Concepts:** Network security, encryption, web security testing  
 
 ---
